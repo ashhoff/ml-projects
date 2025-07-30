@@ -3,10 +3,14 @@ Pulls real-time weather data from WeatherAPI and displays it in the terminal. Ha
 
 ## Highlights
 Live weather by city
+
 Clean terminal output
+
 API key management with .env
 
 ## Stack
 Python
+
 WeatherAPI
+
 requests, python-dotenv
